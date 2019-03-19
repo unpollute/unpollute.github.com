@@ -1,9 +1,9 @@
 # site settings
 title: Unpollute
 email: jkim116@student.hbuhsd.edu
-description: Mission Statement</br>To spread truths and facts of pollution and make people behave to protect the environment.
+description: Mission Statement</br>"To spread truths and facts of pollution and make people behave to protect the environment."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.unpollute.ga"# the base hostname & protocol for your site
+url: "https://www.unpollute.ga" # the base hostname & protocol for your site
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
