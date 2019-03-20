@@ -12,13 +12,13 @@ tiles-count: 6
 #500px_url:
 #facebook_url:
 #github_url:
-#gitlab_url: https://gitlab.com/unpollute/unpollute.github.io
-#googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-#instagram_url: https://instagram.com
-#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+#gitlab_url:
+#googleplus_url:
+#instagram_url:
+#linkedin_url:
 #pinterest_url:
 #sack_url:
-#twitter_url: https://twitter.com/andrewbanchich
+#twitter_url:
 
 # build settings
 markdown: kramdown
