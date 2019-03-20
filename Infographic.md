@@ -1,6 +1,6 @@
 ---
-title: Infographic
+title: The Facts of Pollution
 layout: infographic
-description: 'Infographic.'
+description: 'Infographic'
 nav-menu: true
 ---
