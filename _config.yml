@@ -3,6 +3,7 @@ title: Unpollute
 email: jkim116@student.hbuhsd.edu
 description: Mission Statement</br>"To spread truths and facts of pollution and make people behave to protect the environment"
 url: "https://www.unpollute.ga" # the base hostname & protocol for your site
+permalink: /:categories/:title
 baseurl: "" # the subpath of your site, e.g. /blog
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
