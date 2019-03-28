@@ -40,6 +40,5 @@ It can cause coughing and tightness of your chest, as well as a narrowing of you
 It makes conditions like asthma and COPD worse. It makes people more prone to chest infections.
 
 Sources:
-
-- Air Pollution. ProQuest, Ann Arbor, 2018. elibrary ![eLibrary](https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113)
-- British Lung Foundation ![BLF](https://www.blf.org.uk/support-for-you/air-pollution/types)
+- Air Pollution. ProQuest, Ann Arbor, 2018. elibrary [eLibrary](https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113)
+- British Lung Foundation [BLF](https://www.blf.org.uk/support-for-you/air-pollution/types)
