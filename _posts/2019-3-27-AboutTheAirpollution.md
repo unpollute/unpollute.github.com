@@ -13,12 +13,14 @@ As the times evolved, factories had been activated, and smokes and polluted mate
 However, as the number of factories increases, the amount of oxygen that we can breathe is decreasing.
 
 ![FineDust]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/FineDust.jpg)
+
 The size of the particulate matter will decide where it will end up once you breathe it in.
 Larger particles may be trapped in your nose, while PM10 can reach your airways.
 Fine particles (PM2.5) may reach the breathing sacs deep in your lungs, and ultra fine particles may even cross into your bloodstream.
 These particles can carry toxic chemicals which are linked to cancer.
 
 ![NitrogenDioxide]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/NitrogenDioxide.jpg)
+
 Nitrogen dioxide is a gas and is a major part of urban air pollution episodes.
 Man-made sources of nitrogen oxides, including nitrogen dioxide, are vehicles, power stations, and heating.
 Diesel vehicles are major contributors in urban areas. Roadside levels are highest where traffic is busiest.
@@ -32,8 +34,14 @@ Levels are often higher in the country than in towns. Ozone is a major part of s
 When there are high levels of ozone, more people are admitted to hospital with asthma-related health problems and COPD symptoms, and there is a greater risk of illnesses like pneumonia and bronchitis.
 
 ![SulfurDioxide]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/SulfurDioxide.jpg)
+
 Sulfur dioxide is a colorless gas, with a pungent, suffocating smell. It’s produced by burning sulfur-containing fuels such as coal and oil.
 This includes vehicles, power generation, and heating. Most sulfur dioxide comes from electric industries that burn fossil fuels, and from petrol refineries and cement manufacturing.
 It can be transported over long distances and contributes to the formation of ozone. Sulfur dioxide can irritate the lining of your nose, throat, and lungs.
 It can cause coughing and tightness of your chest, as well as a narrowing of your airway that will reduce the flow of air to your lungs. It inflames the airways, causing coughing and more mucus.
-It makes conditions like asthma and COPD worse. It makes people more prone to 
+It makes conditions like asthma and COPD worse. It makes people more prone to chest infections.
+
+Sources:
+-Air Pollution. ProQuest, Ann Arbor, 2018. elibrary ![eLibrary](https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113)
+-
+-British Lung Foundation ![BLF](https://www.blf.org.uk/support-for-you/air-pollution/types)
