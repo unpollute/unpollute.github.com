@@ -2,6 +2,7 @@
 layout: post
 title: About the Air Pollution
 image: assets/images/pic06.jpg
+categories: posts
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
