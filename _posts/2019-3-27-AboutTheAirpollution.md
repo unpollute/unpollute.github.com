@@ -33,8 +33,6 @@ Levels of ozone tend to be highest in the spring and summer and lowest in the wi
 Levels are often higher in the country than in towns. Ozone is a major part of summer air pollution episodes.
 When there are high levels of ozone, more people are admitted to hospital with asthma-related health problems and COPD symptoms, and there is a greater risk of illnesses like pneumonia and bronchitis.
 
-![SulfurDioxide]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/SulfurDioxide.jpg)
-
 Sulfur dioxide is a colorless gas, with a pungent, suffocating smell. It’s produced by burning sulfur-containing fuels such as coal and oil.
 This includes vehicles, power generation, and heating. Most sulfur dioxide comes from electric industries that burn fossil fuels, and from petrol refineries and cement manufacturing.
 It can be transported over long distances and contributes to the formation of ozone. Sulfur dioxide can irritate the lining of your nose, throat, and lungs.
