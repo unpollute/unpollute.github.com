@@ -18,7 +18,7 @@ On every Saturday, after schedules, I will pick up some trashes around my commun
 
 > ## April
 > 
->|<center>**Sun**</center>|<center>**Mon**</center>|<center>**Tue**</center>|<center>**Wed**</center>|<center>**Thu**</center>|<center>**Fri**</center>|<center>**Sat**</center>|
+>|<bold><center>Sun</center></bold>|<center>Mon</center>|<center>Tue</center>|<center>Wed</center>|<center>Thu</center>|<center>Fri</center>|<center>Sat</center>|
 >|----------|----------|----------|----------|----------|----------|----------|
 >|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6`<br/>       |
 >|`7`<br/>       |`8`<br/>       |`9`       |`10`      |`11`      |`12`      |`13`      |
