@@ -9,7 +9,7 @@ To be honest, There is no environmental pollutions or problems that I can change
 Every day environmental cleaners come and clean and collect recyclable garbage between 6:00 and 8:00 every night.
 
 +-------+-------+-------+-------+-------+-------+-------+
-|**Sun**|**Mon**|**Tue**|**Wed**|**Thu**|**Fri**|**Sat**|
+|  Sun  |  Mon  |  Tue  |  Wed  |  Thu  |  Fri  |  Sat  |
 +=======+=======+=======+=======+=======+=======+=======+
 |`3/31` |`1`    |`2`    |`3`    |`4`    |`5`    |`6`    |
 +-------+-------+-------+-------+-------+-------+-------+   
