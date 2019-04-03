@@ -16,7 +16,6 @@
 	<div class="inner">
           {% for post in site.posts %}
     {% if post.title != 404 %}
-    <code>
       <a href= "{{ site.baseurl }} {{ post.url }}">
 	  <header class="major">
 	    <h1>{{ post.title }}</h1>
@@ -25,7 +24,6 @@
 	  {% endif %}
           {% endfor %}
     </a>
-    </code>
 	</div>
       </section>
 
