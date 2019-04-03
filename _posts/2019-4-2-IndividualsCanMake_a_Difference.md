@@ -12,7 +12,7 @@ Every day environmental cleaners come and clean and collect recyclable garbage b
 
 > ## April
 > 
->|**Sun**   |**Mon**   |**Tue**   |**Wed**   |**Thu**   |**Fri**   |**Sat**   |
+>|**Sun**<!-- .element: style="text-align:center;" -->|**Mon**<!-- .element: style="text-align:center;" -->|**Tue**<!-- .element: style="text-align:center;" -->|**Wed**<!-- .element: style="text-align:center;" -->|**Thu**<!-- .element: style="text-align:center;" -->|**Fri**<!-- .element: style="text-align:center;" -->|**Sat**<!-- .element: style="text-align:center;" -->|
 >|----------|----------|----------|----------|----------|----------|----------|
 >|`3/31`    |`1`       |`2`       |`3`       |`4`       |`5`       |`6`       |
 >|`7`       |`8`       |`9`       |`10`      |`11`      |`12`      |`13`      |
