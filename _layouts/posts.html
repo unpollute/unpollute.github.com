@@ -19,7 +19,7 @@
 	  <header class="major">
 	    <h1><a href= "{{ site.baseurl }} {{ post.url }}">{{ post.title }}</a></h1>
 	  </header>
-	  {% if post.image %}<span class="image main"><a href= "{{ site.baseurl }} {{ post.url }}"></a><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a></span>{% endif %}
+	  {% if post.image %}<span class="image main"><a href= "{{ site.baseurl }} {{ post.url }}"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a></span>{% endif %}
 	  {% endif %}
           {% endfor %}
 	</div>
