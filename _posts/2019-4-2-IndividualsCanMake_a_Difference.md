@@ -10,7 +10,6 @@ Every day environmental cleaners come and clean and collect recyclable garbage b
 
 # Calandar
 
-
 |          |          |          |          |          |          |          |
 |----------|----------|----------|----------|----------|----------|----------|
 |**Sun**   |**Mon**   |**Tue**   |**Wed**   |**Thu**   |**Fri**   |**Sat**   |
