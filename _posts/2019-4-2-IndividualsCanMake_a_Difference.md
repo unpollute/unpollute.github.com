@@ -8,6 +8,12 @@ categories: posts
 To be honest, There is no environmental pollutions or problems that I can change by myself.
 Every day environmental cleaners come and clean and collect recyclable garbage between 6:00 and 8:00 every night.
 
+So, I decided to find out what I could do.
+(As I decided a plan, I will update the Calendar)
+First of all, I think it will be a small but big influence to raise personal habits that are separate wastages required by the community.
+It would be a great basic behavior.
+On every Saturday, after schedules, I will pick up some trashes around my community. And I will increase the area gradually.
+
 # Calandar
 
 > ## April
