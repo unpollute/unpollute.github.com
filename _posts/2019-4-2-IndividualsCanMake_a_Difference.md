@@ -20,7 +20,7 @@ On every Saturday, after schedules, I will pick up some trashes around my commun
 > 
 >|<center>Sun</center>|<center>Mon</center>|<center>Tue</center>|<center>Wed</center>|<center>Thu</center>|<center>Fri</center>|<center>Sat</center>|
 >|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
->|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6` * Picking Trash|
+>|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6` <li> Picking Trash </li>|
 >|`7`<br/>       |`8`<br/>       |`9`<br/>       |`10`<br/>      |`11`<br/>      |`12`<br/>      |`13` * Picking Trash|
 >|`14`<br/>      |`15`<br/>      |`16`<br/>      |`17`<br/>      |`18`<br/>      |`19`<br/>      |`20` * Picking Trash|
 >|`21`<br/>      |`22`<br/>      |`23`<br/>      |`24`<br/>      |`25`<br/>      |`26`<br/>      |`27` * Picking Trash|
