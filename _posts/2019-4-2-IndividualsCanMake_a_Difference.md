@@ -12,10 +12,10 @@ Every day environmental cleaners come and clean and collect recyclable garbage b
 
 > ## April
 > 
->|**Sun**<!-- .element: style="text-align:center;" -->|**Mon**<!-- .element: style="text-align:center;" -->|**Tue**<!-- .element: style="text-align:center;" -->|**Wed**<!-- .element: style="text-align:center;" -->|**Thu**<!-- .element: style="text-align:center;" -->|**Fri**<!-- .element: style="text-align:center;" -->|**Sat**<!-- .element: style="text-align:center;" -->|
+>|<center>**Sun**</center>|<center>**Mon**</center>|<center>**Tue**</center>|<center>**Wed**</center>|<center>**Thu**</center>|<center>**Fri**</center>|<center>**Sat**</center>|
 >|----------|----------|----------|----------|----------|----------|----------|
->|`3/31`    |`1`       |`2`       |`3`       |`4`       |`5`       |`6`       |
->|`7`       |`8`       |`9`       |`10`      |`11`      |`12`      |`13`      |
->|`14`      |`15`      |`16`      |`17`      |`18`      |`19`      |`20`      |
->|`21`      |`22`      |`23`      |`24`      |`25`      |`26`      |`27`      |
->|`28`      |`29`      |`30`      |`5/1`     |`5/2`     |`5/3`     |`5/4`     |
+>|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6`<br/>       |
+>|`7`<br/>       |`8`<br/>       |`9`       |`10`      |`11`      |`12`      |`13`      |
+>|`14`<br/>      |`15`<br/>      |`16`      |`17`      |`18`      |`19`      |`20`      |
+>|`21`<br/>      |`22`<br/>      |`23`      |`24`      |`25`      |`26`      |`27`      |
+>|`28`<br/>      |`29`<br/>      |`30`      |`5/1`     |`5/2`     |`5/3`     |`5/4`     |
