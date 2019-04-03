@@ -15,13 +15,15 @@
       <section id="one">
 	<div class="inner">
           {% for post in site.posts %}
-	  {% if post.title != 404 %}
+    {% if post.title != 404 %}
+    <a href= "{{ site.baseurl }} {{ post.url }}">
 	  <header class="major">
 	    <h1><a href= "{{ site.baseurl }} {{ post.url }}">{{ post.title }}</a></h1>
 	  </header>
-	  {% if post.image %}<span class="image main"><a href= "{{ site.baseurl }} {{ post.url }}"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></a></span>{% endif %}
+	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  {% endif %}
           {% endfor %}
+    </a>
 	</div>
       </section>
 
