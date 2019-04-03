@@ -37,6 +37,6 @@ It can be transported over long distances and contributes to the formation of oz
 It can cause coughing and tightness of your chest, as well as a narrowing of your airway that will reduce the flow of air to your lungs. It inflames the airways, causing coughing and more mucus.
 It makes conditions like asthma and COPD worse. It makes people more prone to chest infections.
 
->Sources:
- Air Pollution. ProQuest, Ann Arbor, 2018. elibrary [https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113](https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113)
+>Sources<br/>
+ Air Pollution. ProQuest, Ann Arbor, 2018. elibrary [https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113](https://explore.proquest.com/elibrary/document/1959813687?searchid=1553758575&accountid=193113)<br/>
  British Lung Foundation [https://www.blf.org.uk/support-for-you/air-pollution/types](https://www.blf.org.uk/support-for-you/air-pollution/types)
