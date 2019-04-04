@@ -27,8 +27,8 @@ I will print the poster in a proper amount, and put in a mailbox around the comm
 > 
 >|<center>Sun</center>|<center>Mon</center>|<center>Tue</center>|<center>Wed</center>|<center>Thu</center>|<center>Fri</center>|<center>Sat</center>|
 >|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
->|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6` <br/><ul><li>Picking Trash</li></ul>|
->|`7`<br/> <ul><li>Making a Poster</li></ul>|`8`<br/>       |`9`<br/>       |`10`<br/>      |`11`<br/>      |`12`<br/>      |`13` * Picking Trash|
->|`14`<br/> <ul><li>Sharing Posters</li></ul>|`15`<br/>      |`16`<br/>      |`17`<br/>      |`18`<br/>      |`19`<br/>      |`20` * Picking Trash|
->|`21`<br/>      |`22`<br/>      |`23`<br/>      |`24`<br/>      |`25`<br/>      |`26`<br/>      |`27` * Picking Trash|
->|`28`<br/>      |`29`<br/>      |`30`<br/>      |`5/1`<br/>     |`5/2`<br/>     |`5/3`<br/>     |`5/4` * Picking Trash|
+>|`3/31`<br/>    |`1`<br/>       |`2`<br/>       |`3`<br/>       |`4`<br/>       |`5`<br/>       |`6` <br/>{::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
+>|`7`<br/> {::nomarkdown}<ul><li>Making a Poster</li></ul>{:/}|`8`<br/>       |`9`<br/>       |`10`<br/>      |`11`<br/>      |`12`<br/>      |`13` {::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
+>|`14`<br/> {::nomarkdown}<ul><li>Sharing Posters</li></ul>{:/}|`15`<br/>      |`16`<br/>      |`17`<br/>      |`18`<br/>      |`19`<br/>      |`20` {::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
+>|`21`<br/>      |`22`<br/>      |`23`<br/>      |`24`<br/>      |`25`<br/>      |`26`<br/>      |`27` {::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
+>|`28`<br/>      |`29`<br/>      |`30`<br/>      |`5/1`<br/>     |`5/2`<br/>     |`5/3`<br/>     |`5/4` {::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
