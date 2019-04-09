@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: About The Air Pollution
 image: assets/images/Posts/AboutTheAirPollution/Smoke.jpg
 categories: posts
