@@ -6,7 +6,7 @@ description: Copyright of the site
 nav-menu: true
 ---
 
-### Site Producer
+### Site Provider
 [GithubSite](https://github.io)
 <br/>
 ### Origin
