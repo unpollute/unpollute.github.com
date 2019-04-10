@@ -6,4 +6,3 @@ description: Gallery
 image: assets/images/Pic_Posts.jpg
 show_tile: true
 ---
-# Gallery
