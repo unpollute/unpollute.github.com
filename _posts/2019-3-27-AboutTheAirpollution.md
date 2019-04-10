@@ -14,14 +14,14 @@ As the times evolved, factories had been activated, and smokes and polluted mate
 However, as the number of factories increases, the amount of oxygen that we can breathe is decreasing.
 <br/>
 <br/>
-![FineDust alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/FineDust.jpg){:style="float: left; margin-right: 7px; margin-top: 7px; margin-bottom: 7px; margin-left: 7px; height: 250px;"}
+![FineDust alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/FineDust.jpg){:style="float: left; margin-right: 7px; margin-top: 7px; margin-bottom: 7px; margin-left: 7px; height: 250px; width: auto;"}
 The size of the particulate matter will decide where it will end up once you breathe it in.
 Larger particles may be trapped in your nose, while ***PM10*** can reach your airways.
 Fine particles ***(PM2.5)*** may reach the breathing sacs deep in your lungs, and ultra fine particles may even cross into your bloodstream.
 These particles can carry toxic chemicals which are linked to cancer.
 <br/>
 <br/>
-![NitrogenDioxide alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/NitrogenDioxide.jpg){:style="float: right;margin-left: 7px; margin-top: 7px; margin-bottom: 7px; margin-left: 7px; height: 250px;"}
+![NitrogenDioxide alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/NitrogenDioxide.jpg){:style="float: right;margin-left: 7px; margin-top: 7px; margin-bottom: 7px; margin-left: 7px; height: 250px; width: auto;"}
 Man-made sources of nitrogen oxides, including nitrogen dioxide, are vehicles, power stations, and heating.
 Diesel vehicles are major contributors in urban areas. Roadside levels are highest where traffic is busiest.
 High levels of NO2 can irritate and inflame the lining of your airways, causing a flare-up of asthma or COPD and symptoms such as coughing and difficulty breathing.
