@@ -38,3 +38,5 @@ I will print the poster in a proper amount, and put in a mailbox around the comm
 >![Poster alt <]({{ site.url }}/assets/images/Posts/IndividualsCanMakeADifference/2019-4-9-Poster.jpg){:style="float: left;margin-right: 7px; margin-top: 7px; height: 250px;"}
 > I made a poster about reducing the usage of plastic. 
 > I am saying plastic but, that plastic contains every materials that pollute the Earth.
+
+<br />
