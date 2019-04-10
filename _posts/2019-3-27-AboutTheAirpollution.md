@@ -12,7 +12,7 @@ Oxygen is most important to live, because human breath with Oxygen. Also blocks 
 As the times evolved, factories had been activated, and smokes and polluted materials spread in the air.
 However, as the number of factories increases, the amount of oxygen that we can breathe is decreasing.
 <br/>
-![FineDust alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/FineDust.jpg){:style="float: left;margin-right: 7px; margin-top: 7px; margin-bottom: auto; height: 250px;"}
+![FineDust alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/FineDust.jpg){:style="float: left;margin-right: 7px; margin-top: 7px; margin-bottom: 35px; height: 250px;"}
 The size of the particulate matter will decide where it will end up once you breathe it in.
 Larger particles may be trapped in your nose, while ***PM10*** can reach your airways.
 Fine particles ***(PM2.5)*** may reach the breathing sacs deep in your lungs, and ultra fine particles may even cross into your bloodstream.
