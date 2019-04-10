@@ -7,7 +7,7 @@
 /* Main */
 
 	#main {
-		background-color: #c8c8c8;
+		background-color: _palette(bg-alt);
 
 		> * {
 			border-top: solid 1px _palette(border);
