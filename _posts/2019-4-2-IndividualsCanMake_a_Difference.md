@@ -34,7 +34,7 @@ I will print the poster in a proper amount, and put in a mailbox around the comm
 >|`28`<br/>      |`29`<br/>      |`30`<br/>      |`5/1`<br/>     |`5/2`<br/>     |`5/3`<br/>     |`5/4` {::nomarkdown}<ul><li>Picking Trash</li></ul>{:/}|
 >
 > ### Reflect
-> '9'
+> `9`<br />
 >![Poster alt <]({{ site.url }}/assets/images/Posts/IndividualsCanMakeADifference/2019-4-9-Poster.jpg){:style="float: left;margin-right: 7px; margin-top: 7px; height: 250px;"}
 > I made a poster about reducing the usage of plastic. 
 > I am saying plastic but, that plastic contains every materials that pollute the Earth.
