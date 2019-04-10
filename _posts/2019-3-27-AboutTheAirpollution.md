@@ -19,9 +19,7 @@ Fine particles ***(PM2.5)*** may reach the breathing sacs deep in your lungs, an
 These particles can carry toxic chemicals which are linked to cancer.
 <br/>
 <br/>
-<br/>
-<br/>
-![NitrogenDioxide alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/NitrogenDioxide.jpg){:style="float: left;margin-right: 7px; margin-top: 7px; margin-bottom: auto; height: 250px;"}
+![NitrogenDioxide alt <]({{ site.url }}/assets/images/Posts/AboutTheAirPollution/NitrogenDioxide.jpg){:style="float: right;margin-left: 7px; margin-top: 7px; margin-bottom: auto; height: 250px;"}
 Man-made sources of nitrogen oxides, including nitrogen dioxide, are vehicles, power stations, and heating.
 Diesel vehicles are major contributors in urban areas. Roadside levels are highest where traffic is busiest.
 High levels of NO2 can irritate and inflame the lining of your airways, causing a flare-up of asthma or COPD and symptoms such as coughing and difficulty breathing.
